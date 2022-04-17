@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmovie=self.webpackChunkmovie||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"eat","permalink":"/movie-thoughts/blog/2022/04/17/eat"},{"title":"THE GUILTY/\u30ae\u30eb\u30c6\u30a3","permalink":"/movie-thoughts/blog/guilty"}]}')}}]);
