@@ -43,7 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: '映画の感想',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -53,11 +53,20 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: '映画の感想',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            to: '/blog',
+            label: 'ブログ',
+            position: 'left'
+          },
+          {
+            href: 'https://twitter.com/Araki_t_t',
+            label: 'Twitter',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/ArakiTakaki',
             label: 'GitHub',
             position: 'right',
           },
@@ -67,11 +76,15 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Links',
             items: [
               {
-                label: 'Tutorial',
+                label: '映画の感想',
                 to: '/docs/intro',
+              },
+              {
+                label: 'ブログ',
+                to: '/blog',
               },
             ],
           },
