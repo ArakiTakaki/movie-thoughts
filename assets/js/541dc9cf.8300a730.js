@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmovie=self.webpackChunkmovie||[]).push([[72],{1796:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"\u30ae\u30eb\u30c6\u30a3","count":1,"permalink":"/blog/tags/\u30ae\u30eb\u30c6\u30a3"}')}}]);
