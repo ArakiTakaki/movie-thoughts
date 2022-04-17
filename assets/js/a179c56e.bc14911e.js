@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmovie=self.webpackChunkmovie||[]).push([[923],{9940:function(e){e.exports=JSON.parse('{"permalink":"/movie-thoughts/blog/tags/\u30b5\u30b9\u30da\u30f3\u30b9","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

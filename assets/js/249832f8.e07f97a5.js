@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmovie=self.webpackChunkmovie||[]).push([[805],{5554:function(e){e.exports=JSON.parse('{"allTagsPath":"/movie-thoughts/blog/tags","name":"\u30ae\u30eb\u30c6\u30a3","count":1,"permalink":"/movie-thoughts/blog/tags/\u30ae\u30eb\u30c6\u30a3"}')}}]);

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/blog</id>
+    <id>https://your-docusaurus-test-site.com/movie-thoughts/blog</id>
     <title>My Site Blog</title>
     <updated>2022-04-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/movie-thoughts/blog"/>
     <subtitle>My Site Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <icon>https://your-docusaurus-test-site.com/movie-thoughts/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Profile]]></title>
         <id>plofile</id>
-        <link href="https://your-docusaurus-test-site.com/blog/plofile"/>
+        <link href="https://your-docusaurus-test-site.com/movie-thoughts/blog/plofile"/>
         <updated>2022-04-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[ギルティ]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="ギルティ">ギルティ<a class="hash-link" href="#ギルティ" title="Direct link to heading">​</a></h2><p>barzuzz</p>]]></content>
